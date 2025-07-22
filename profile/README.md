@@ -2,24 +2,22 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Oi,+Nós+somos+uma+equipe+de+desenvolvedores+web+🌐+💻" alt="Typing SVG" />
 </p>
 
-### 🌐Fullstack developer, I'm 12 years old. I work with JavaScript, modern frameworks, and databases, creating comprehensive projects—always learning and evolving.
+### 🌐 Somos uma equipe com 11 desenvolvedores focados em entregar soluções digitais com qualidade, agilidade e responsabilidade. Atuamos com seriedade em cada projeto, buscando sempre resultados sólidos e duradouros.
 
-### 💻 I'm enrolled in a professional, in-person fullstack development course focusing on practical skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
+### 💻 Trabalhamos com as principais tecnologias do mercado, oferecendo experiências modernas, seguras e escaláveis para empresas que exigem excelência.
 
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/programmericaro/)
-[![Portfólio](https://img.shields.io/badge/🚀_Portfólio-white?style=for-the-badge&logo=vercel&logoColor=black)](https://icarox52.github.io/PortfolioNovo/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kodxyprogrammer/)
 
 
 ---
 
-### Technologies I use in my daily work
+### Tecnologias que usamos no nosso dia a dia
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,vscode,tailwind,github,react,firebase&theme=light)](https://skillicons.dev)
+[![Nossas habilidades](https://skillicons.dev/icons?i=nodejs,express,vscode,tailwind,github,react,firebase&theme=light)](https://skillicons.dev)
 
 
 
