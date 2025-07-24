@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Olá👋,+somos+desenvolvedores+web+🌐+💻" alt="Typing SVG" />
 </p>
 
-### 🌐 Somos uma equipe com 8 desenvolvedores focados em entregar soluções digitais com qualidade, agilidade e responsabilidade. Atuamos com seriedade em cada projeto, buscando sempre resultados sólidos e duradouros.
+### 🌐 Somos uma equipe com 3 desenvolvedores focados em entregar soluções digitais com qualidade, agilidade e responsabilidade. Atuamos com seriedade em cada projeto, buscando sempre resultados sólidos e duradouros.
 
 ### 💻 Trabalhamos com as principais tecnologias do mercado, oferecendo experiências modernas, seguras e escaláveis para empresas que exigem excelência.
 
