@@ -17,7 +17,7 @@
 ### Tecnologias que usamos no nosso dia a dia
 
 
-[![Nossas habilidades](https://skillicons.dev/icons?i=nodejs,express,vscode,tailwind,github,react,firebase&theme=light)](https://skillicons.dev)
+[![Nossas habilidades](https://skillicons.dev/icons?i=nodejs,express,vscode,tailwind,github,react,firebase,mysql,vercel,figma&theme=light)](https://skillicons.dev)
 
 
 
