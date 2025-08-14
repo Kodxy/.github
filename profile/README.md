@@ -14,6 +14,14 @@ Somos uma equipe focada em entregar **soluções digitais com qualidade, agilida
 
 ---
 
+## 📌 O que fazemos  
+- Desenvolvimento de **sites e sistemas web** sob medida  
+- Criação de **aplicativos móveis** modernos e responsivos    
+- **Otimização de performance** e melhorias de usabilidade  
+- Soluções **seguras e escaláveis** para qualquer porte de negócio  
+
+---
+
 ## 🤝 Porque confiar em nós?  
 Você pode confiar em nós porque tratamos cada projeto como se fosse **único e pessoal**.  
 Colocamos **dedicação, qualidade e transparência** em cada etapa, garantindo que o resultado final não seja apenas bom, mas **impecável**.  
