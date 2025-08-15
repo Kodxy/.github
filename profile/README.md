@@ -29,12 +29,7 @@ Para nós, só existe um objetivo: **a sua confiança e satisfação**.
 
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kodxyprogrammer/)
 
----
 
-## 🛠 Tecnologias que usamos no nosso dia a dia  
 
-[![Nossas habilidades](https://skillicons.dev/icons?i=html,css,js,git,nodejs,express,vscode,tailwind,github,react,firebase,mysql,vercel,figma&theme=light)](https://skillicons.dev)
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ffffff&animation=fadeIn" />
