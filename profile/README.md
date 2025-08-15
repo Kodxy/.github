@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=Olá👋,+somos+desenvolvedores+🌐+💻" alt="Typing SVG" />
 </p>
 
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kodxyprogrammer/)
+
+
 ---
 
 ## 🌐 Quem somos  
@@ -27,7 +30,6 @@ Você pode confiar em nós porque tratamos cada projeto como se fosse **único e
 Colocamos **dedicação, qualidade e transparência** em cada etapa, garantindo que o resultado final não seja apenas bom, mas **impecável**.  
 Para nós, só existe um objetivo: **a sua confiança e satisfação**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kodxyprogrammer/)
 
 
 
